@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfMateriale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Materiale>
+    <CodMaterial>14</CodMaterial>
+    <DenumireMaterial>sticla</DenumireMaterial>
+    <StocDisponibil>120</StocDisponibil>
+    <PretMediu>38</PretMediu>
+    <Proprietar>BMW</Proprietar>
+  </Materiale>
+  <Materiale>
+    <CodMaterial>16</CodMaterial>
+    <DenumireMaterial>Procesor</DenumireMaterial>
+    <StocDisponibil>45</StocDisponibil>
+    <PretMediu>215</PretMediu>
+    <Proprietar>Audi</Proprietar>
+  </Materiale>
+  <Materiale>
+    <CodMaterial>17</CodMaterial>
+    <DenumireMaterial>Procesor</DenumireMaterial>
+    <StocDisponibil>38</StocDisponibil>
+    <PretMediu>230</PretMediu>
+    <Proprietar>BMW</Proprietar>
+  </Materiale>
+  <Materiale>
+    <CodMaterial>20</CodMaterial>
+    <DenumireMaterial>Bara de plastic</DenumireMaterial>
+    <StocDisponibil>100</StocDisponibil>
+    <PretMediu>25</PretMediu>
+    <Proprietar>Audi</Proprietar>
+  </Materiale>
+  <Materiale>
+    <CodMaterial>21</CodMaterial>
+    <DenumireMaterial>Bara de plastic</DenumireMaterial>
+    <StocDisponibil>90</StocDisponibil>
+    <PretMediu>25</PretMediu>
+    <Proprietar>BMW</Proprietar>
+  </Materiale>
+  <Materiale>
+    <CodMaterial>26</CodMaterial>
+    <DenumireMaterial>Material textil</DenumireMaterial>
+    <StocDisponibil>73</StocDisponibil>
+    <PretMediu>48</PretMediu>
+    <Proprietar>Audi</Proprietar>
+  </Materiale>
+  <Materiale>
+    <CodMaterial>31</CodMaterial>
+    <DenumireMaterial>Vopsea</DenumireMaterial>
+    <StocDisponibil>10</StocDisponibil>
+    <PretMediu>30</PretMediu>
+    <Proprietar>BMW</Proprietar>
+  </Materiale>
+  <Materiale>
+    <CodMaterial>33</CodMaterial>
+    <DenumireMaterial>Jante de plastic</DenumireMaterial>
+    <StocDisponibil>62</StocDisponibil>
+    <PretMediu>18</PretMediu>
+    <Proprietar>Audi</Proprietar>
+  </Materiale>
+</ArrayOfMateriale>
